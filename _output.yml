@@ -1,8 +1,6 @@
 bookdown::gitbook:
   fig_caption: false
   css: style.css
-  includes:
-    after_body: try.js
   config:
     toc:
       before: |
